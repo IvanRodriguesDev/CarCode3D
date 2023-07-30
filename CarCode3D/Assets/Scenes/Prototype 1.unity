@@ -462,7 +462,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfa597bf35933584e873d0d239fa7ab0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1752168938}
+  speed: 5
+  turnSpeed: 0
+  horizontalInput: 0
 --- !u!1 &648605893 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1990293589767515956, guid: 367149bd17c4d4d4e8868ec6a5cf8d45, type: 3}
